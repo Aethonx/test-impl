@@ -1,0 +1,3 @@
+[submodule "test-common"]
+	path = test-common
+	url = https://github.com/Aethonx/test-common
